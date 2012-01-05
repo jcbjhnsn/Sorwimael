@@ -1,6 +1,6 @@
 In this DrRacket library, I intend to write fuctions that perform all basic **algebraic** manipulations to the [American] high-school level, at least.
 
-### zProject structure:
+### Project structure:
 
   * Start with directory for each axiom
     * Create .rtk files and write code that gets that axiom functioning
